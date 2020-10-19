@@ -6,8 +6,8 @@
  🌱 I’m currently learning -- React.js <br/>
  👯 I’m looking to collaborate on ... AWS <br/>
  🤔 I’m looking for help with ... ReactNative <br/>
- 💬 Ask me about ... <br/>
- ⚡ Fun fact: ... --> Coding<br/>
+ 💬 Ask me about ... Javascript <br/>
+ ⚡ Fun fact: ... --> Coding <br/>
   <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
 ___
 
