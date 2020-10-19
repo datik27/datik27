@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My name is Atikur Rahman and I'm a web developer! ⚡ <br/>
-### from Kualalumpur, Malaysia 😄
+### from Kuala Lumpur, Malaysia 😄
 
  🌱 I’m currently learning -- React.js <br/>
  👯 I’m looking to collaborate on ... AWS <br/>
