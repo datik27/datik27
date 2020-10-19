@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### My name is Atikur Rahman and I'm a web developer! 👋
+### My name is Atikur Rahman and I'm a web developer! 👋 <br/>
+### from Kualalumpur, Malaysia 😄
 
  🌱 I’m currently learning  <br/>
  👯 I’m looking to collaborate on ... <br/>
