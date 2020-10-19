@@ -3,13 +3,12 @@
 ### My name is Atikur Rahman and I'm a web developer! ⚡ <br/>
 ### from Kualalumpur, Malaysia 😄
 
- 🌱 I’m currently learning  <br/>
- 👯 I’m looking to collaborate on ... <br/>
- 🤔 I’m looking for help with ... <br/>
+ 🌱 I’m currently learning -- React.js <br/>
+ 👯 I’m looking to collaborate on ... AWS <br/>
+ 🤔 I’m looking for help with ... ReactNative <br/>
  💬 Ask me about ... <br/>
- 📫 How to reach me: ... <br/>
- 😄 Pronouns: ... <br/>
- ⚡ Fun fact: ... --> <br/>
+ ⚡ Fun fact: ... --> Coding<br/>
+  <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
 ___
 
 
