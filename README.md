@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Atikur Rahman <br/>
-from dhaka, Banngladesh  <br/>
+### My name is Atikur Rahman and I'm a web developer! 👋
 
  🌱 I’m currently learning  <br/>
  👯 I’m looking to collaborate on ... <br/>
