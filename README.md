@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Atikur Rahman (datik27)
-from dhaka, Banngladesh  <br>
+I'm Atikur Rahman <br/>
+from dhaka, Banngladesh  <br/>
 
 🎉 &nbsp; I like to play with Code <br>
 🛠 &nbsp; Javascript is my Life and Python is my Hobby <br>
@@ -15,7 +15,7 @@ ___
 <!-- 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
