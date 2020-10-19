@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 #### 📫 &nbsp; Reach me:
-[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/oops.masud.rana)
-[![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@rsrana8)
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:rana028511@gmail.com)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/masudrana08/)
+[![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/evergreen.d.atik)
+[![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@theatikr27)
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hellowiamatik@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/md-atikur-rahman-84aa551a4/)
 
 <img width="550px" alt="Atikur Rahman's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=datik27&show_icons=true"/>
 </br>
