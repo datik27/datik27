@@ -1,5 +1,5 @@
 # Atikur Rahman
-I'm Atik from Malaysia, and I do content on Design and Development. I really enjoy learning languages and frameworks like Javascript and React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.  <br/>
+Hi I'm Atik from Malaysia, and I am Front-end web Developer.I really enjoy learning languages and frameworks like Javascript and React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.  <br/>
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
