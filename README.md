@@ -15,7 +15,7 @@ ___
 
 
 #### 📫 &nbsp; Reach me:
-<br/>
+
 [![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/evergreen.d.atik)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@theatikr27)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hellowiamatik@gmail.com)
