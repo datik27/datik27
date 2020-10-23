@@ -23,6 +23,8 @@ ___
 <a href="https://twitter.com/datikur27/">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<br/>
+<br/>
 <img width="550px" alt="Atikur Rahman's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=datik27&show_icons=true"/>
 </br>
 
