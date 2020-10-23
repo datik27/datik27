@@ -15,6 +15,7 @@ ___
 
 
 #### 📫 &nbsp; Reach me:
+<br/>
 
 [![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/evergreen.d.atik)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@theatikr27)
@@ -23,6 +24,9 @@ ___
 <a href="https://twitter.com/datikur27/">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<a href="https://theatikr.com/">
+ <img align="left" alt="https://theatikr.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a/>
 <br/>
 <br/>
 <img width="550px" alt="Atikur Rahman's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=datik27&show_icons=true"/>
