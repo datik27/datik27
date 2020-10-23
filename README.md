@@ -15,10 +15,12 @@ ___
 
 
 #### 📫 &nbsp; Reach me:
+[<img align="left" alt="https://theatikr.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [![Facebook](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/evergreen.d.atik)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@theatikr27)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hellowiamatik@gmail.com)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/md-atikur-rahman-84aa551a4/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://twitter.com/datikur27/">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
