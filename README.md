@@ -1,7 +1,6 @@
-### Hi there 👋
+# Atikur Rahman
+I'm Atik from Malaysia, and I do content on Design and Development. I really enjoy learning languages and frameworks like Javascript and React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.  <br/>
 
-### My name is Atikur Rahman and I'm a web developer! ⚡ <br/>
-### from Kuala Lumpur, Malaysia 😄
 
  🌱 I’m currently learning -- React.js <br/>
  👯 I’m looking to collaborate on ... AWS <br/>
