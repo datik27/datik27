@@ -1,5 +1,5 @@
-![Blue and Yellow Dynamic Logo width="100%" | height="auto"](https://user-images.githubusercontent.com/55844771/97094213-5e179f80-1685-11eb-9898-554310eb5fc3.jpg) 
-# Atikur Rahman
+ 
+## Atikur Rahman
 Hi I'm Atik from Malaysia, and I am a Front-end web Developer.I really enjoy learning languages and frameworks like Javascript and React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.  <br/>
 
 ## Skills and Experience
